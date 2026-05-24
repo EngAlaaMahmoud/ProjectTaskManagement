@@ -1,0 +1,12 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.pdb
+*.cache
+*.db
+*.db-journal
+*.DS_Store
+**/Migrations/**/metadata.json
+**/Migrations/**/snapshot.cs
